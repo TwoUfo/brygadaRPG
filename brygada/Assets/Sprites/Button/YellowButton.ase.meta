@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0cf709882060b8c44882e24e65d18183
+guid: c490045813766bb47a4fb887acba414a
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: imput
+  - name: YellowButton
     originalName: 
-    pivot: {x: -0.46874997, y: -0.34375}
+    pivot: {x: 0.5, y: -0.033333335}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 64
-      height: 32
-    spriteID: b0c2f4adb9ea013408140be54921c811
+      width: 30
+      height: 30
+    spriteID: e2e9d188752f8484ca1c45d2ce02e024
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,24 +144,24 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -204867579
-    name: imput
+    guid: -1249669214
+    name: YellowButton
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: imput
+    - name: YellowButton
       frameIndex: 0
       cellRect:
-        x: 128
-        y: 11
-        width: 64
-        height: 32
-      spriteId: b0c2f4adb9ea013408140be54921c811
+        x: 1
+        y: 1
+        width: 30
+        height: 30
+      spriteId: e2e9d188752f8484ca1c45d2ce02e024
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 196, y: 59}
+  canvasSize: {x: 32, y: 32}

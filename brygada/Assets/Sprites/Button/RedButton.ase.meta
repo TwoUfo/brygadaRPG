@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fb3116c855a1f0049a191f8d1e04c417
+guid: 4645f071f05ee824497962eeff0ab689
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: ButtonJoin
+  - name: RedButton
     originalName: 
     pivot: {x: 0.5, y: -0.033333335}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 30
       height: 30
-    spriteID: 9904cd40f963b4849b72d3ee982088e5
+    spriteID: 479e9ad4a58c2fa48bb0ea9594bead0a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,20 +144,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1923520034
-    name: ButtonJoin
+    guid: -1312639099
+    name: RedButton
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: ButtonJoin
+    - name: RedButton
       frameIndex: 0
       cellRect:
         x: 1
         y: 1
         width: 30
         height: 30
-      spriteId: 9904cd40f963b4849b72d3ee982088e5
+      spriteId: 479e9ad4a58c2fa48bb0ea9594bead0a
     linkedCells: []
     parentIndex: -1
   platformSettings: []

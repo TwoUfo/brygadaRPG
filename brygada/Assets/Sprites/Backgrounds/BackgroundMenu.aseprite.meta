@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1c030a7ba9e746a45bcb6f13658b84e1
+guid: 169825f45e871cc40b18d59b1cd16cd2
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Sprite-0002
+  - name: BackgroundMenu
     originalName: 
-    pivot: {x: 0.77931035, y: -2.2535212}
+    pivot: {x: 0.5, y: -1.1428572}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 145
-      height: 71
-    spriteID: 0a6f0e6c9f3a5af44b076c676d675bde
+      width: 240
+      height: 112
+    spriteID: 919a77f320fda02408ec4f2388e2b596
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,20 +144,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -572920020
-    name: Sprite-0002
+    guid: -1210458263
+    name: BackgroundMenu
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Sprite-0002
+    - name: BackgroundMenu
       frameIndex: 0
       cellRect:
-        x: 7
-        y: 160
-        width: 145
-        height: 71
-      spriteId: 0a6f0e6c9f3a5af44b076c676d675bde
+        x: 0
+        y: 128
+        width: 240
+        height: 112
+      spriteId: 919a77f320fda02408ec4f2388e2b596
     linkedCells: []
     parentIndex: -1
   platformSettings: []

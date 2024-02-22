@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b8ab0a66c032e23488ea2faa7fd7b375
+guid: 1c030a7ba9e746a45bcb6f13658b84e1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Sprite-0002
+  - name: BackgroundGame
     originalName: 
-    pivot: {x: 0.5, y: -1.1238937}
+    pivot: {x: 0.77931035, y: -2.2535212}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 240
-      height: 113
-    spriteID: 73979e90d8618a4498bffcbb20b99629
+      width: 145
+      height: 71
+    spriteID: 524fbe7e68d9919479d97d78238e0475
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,20 +144,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -572920020
-    name: Sprite-0002
+    guid: -1314284688
+    name: BackgroundGame
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Sprite-0002
+    - name: BackgroundGame
       frameIndex: 0
       cellRect:
-        x: 0
-        y: 127
-        width: 240
-        height: 113
-      spriteId: 73979e90d8618a4498bffcbb20b99629
+        x: 7
+        y: 160
+        width: 145
+        height: 71
+      spriteId: 524fbe7e68d9919479d97d78238e0475
     linkedCells: []
     parentIndex: -1
   platformSettings: []

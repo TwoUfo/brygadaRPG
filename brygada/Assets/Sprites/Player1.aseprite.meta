@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 169825f45e871cc40b18d59b1cd16cd2
+guid: 33b53e8f5e5c5414880d57fbf3cb6e66
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Background_menu
+  - name: Player1
     originalName: 
-    pivot: {x: 0.5, y: -1.1428572}
+    pivot: {x: 0.5, y: -0.07692308}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 240
-      height: 112
-    spriteID: 2acfc6d54a9da254cbe18fd0dec999c5
+      width: 12
+      height: 26
+    spriteID: 941d00da613000c4cbeb703540097fb8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,24 +144,24 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -2074188104
-    name: Background_menu
+    guid: -1521666782
+    name: Player1
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Background_menu
+    - name: Player1
       frameIndex: 0
       cellRect:
-        x: 0
-        y: 128
-        width: 240
-        height: 112
-      spriteId: 2acfc6d54a9da254cbe18fd0dec999c5
+        x: 10
+        y: 2
+        width: 12
+        height: 26
+      spriteId: 941d00da613000c4cbeb703540097fb8
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 240, y: 240}
+  canvasSize: {x: 32, y: 32}

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: be6a2eec53a8cc14b842f18135838818
+guid: b8ab0a66c032e23488ea2faa7fd7b375
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Sprite-0003
+  - name: BackgroundLoad
     originalName: 
-    pivot: {x: 0.5, y: -0.07692308}
+    pivot: {x: 0.5, y: -1.1238937}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 12
-      height: 26
-    spriteID: e2fe61a247a430a46b6d9d023ca4b0cf
+      width: 240
+      height: 113
+    spriteID: 17ac4b32b5433f64f8862741d7c4613d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,24 +144,24 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -572920417
-    name: Sprite-0003
+    guid: -485589942
+    name: BackgroundLoad
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Sprite-0003
+    - name: BackgroundLoad
       frameIndex: 0
       cellRect:
-        x: 10
-        y: 2
-        width: 12
-        height: 26
-      spriteId: e2fe61a247a430a46b6d9d023ca4b0cf
+        x: 0
+        y: 127
+        width: 240
+        height: 113
+      spriteId: 17ac4b32b5433f64f8862741d7c4613d
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 32, y: 32}
+  canvasSize: {x: 240, y: 240}

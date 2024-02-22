@@ -1,19 +1,18 @@
 using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
 
 public class CameraFollow : MonoBehaviour
 {
-    public Transform target; // Посилання на об'єкт гравця
-
-    public float smoothSpeed = 0.125f; // Параметр для згладжування руху
-
-    public Vector3 offset; // Відстань між камерою і гравцем
+    public Transform player;
+    private Vector3 playerVector;
+    public int speed;
+    
 
     void LateUpdate()
     {
-        Vector3 desiredPosition = target.position + offset; // Обчислюємо нову позицію камери
-
-        Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed); // Згладжуємо рух
-
-        transform.position = smoothedPosition; // Задаємо нову позицію камери
+        playerVector = player.position;
+        playerVector.z = -4;
+        transform.position = Vector3.Lerp(transform.position, playerVector, speed*Time.deltaTime);
     }
 }

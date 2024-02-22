@@ -11,6 +11,11 @@ public class PlayerMove : MonoBehaviour
     void Start()
     {
         view = GetComponent<PhotonView>();
+
+        if (view.Owner.IsLocal)
+        {
+            Camera.main.GetComponent<CameraFollow>().player = gameObject.transform;
+        }
     }
 
     void Update()

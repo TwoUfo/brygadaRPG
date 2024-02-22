@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 206b7d6123d31e441a0b30f61f77f38a
+guid: 6de959ba842bf304298e60fb94313843
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Button_join
+  - name: ButtonCreate
     originalName: 
-    pivot: {x: -0.46874997, y: -0.34375}
+    pivot: {x: 0.5, y: -0.033333335}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 64
-      height: 32
-    spriteID: c8db415306dc9a64eb8829ae799aee30
+      width: 30
+      height: 30
+    spriteID: 06d2c899eaf9dda45b350daf9123d2bd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,24 +144,24 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1628691907
-    name: Button_join
+    guid: -2119301550
+    name: ButtonCreate
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Button_join
+    - name: ButtonCreate
       frameIndex: 0
       cellRect:
-        x: 128
-        y: 11
-        width: 64
-        height: 32
-      spriteId: c8db415306dc9a64eb8829ae799aee30
+        x: 1
+        y: 1
+        width: 30
+        height: 30
+      spriteId: 06d2c899eaf9dda45b350daf9123d2bd
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 196, y: 59}
+  canvasSize: {x: 32, y: 32}
